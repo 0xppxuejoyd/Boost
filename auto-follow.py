@@ -118,4 +118,4 @@ def main_menu():
             print("Invalid choice! Please try again.")
 
 # Start the menu
-main_menu(
+main_menu()
