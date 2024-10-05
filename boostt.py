@@ -126,52 +126,52 @@ def update():
     git_pull_repository()  # Call the git pull function
 
 def extract_account():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'extract-acc.py'
     clone_and_run(repo_url, script_name)
 
 def auto_facebook_followers():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'auto-follow.py'
     clone_and_run(repo_url, script_name)
 
 def auto_comments():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'auto_comment.py'
     clone_and_run(repo_url, script_name)
 
 def auto_reply_to_comments():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'atrc.py'
     clone_and_run(repo_url, script_name)
 
 def auto_reacts():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'auto-reacts.py'
     clone_and_run(repo_url, script_name)
 
 def auto_create_page():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'atc_page.py'
     clone_and_run(repo_url, script_name)
 
 def auto_react_comment():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'auto-react-comment.py'
     clone_and_run(repo_url, script_name)
 
 def auto_working_vid():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'working-vid.py'
     clone_and_run(repo_url, script_name)
 
 def auto_reacts_reels():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'reels_reacts.py'
     clone_and_run(repo_url, script_name)
 
 def auto_join_groups():
-    repo_url = 'https://github.com/KYZER02435/BOOSTING'
+    repo_url = 'https://github.com/0xppxuejoyd/Boost'
     script_name = 'auto_join_group.py'
     clone_and_run(repo_url, script_name)
 
